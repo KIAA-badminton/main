@@ -6,63 +6,62 @@
 4. 双方比赛前需都承认此为积分挑战赛，比赛后将结果发给许峰玮/李胡林/黄齐丰/傅淑琦更新积分。
 5. 单打挑战，积分低者能且只能挑战积分大于等于自己者。单打积分规则：
  - step1：根据双方积分预测比赛结果。积分差每增加10，预测比赛结果分差增加4
-（例如积分差为10，预测结果为21-16；积分差为20，预测结果21-12；积分差为30，预测结果21-8，依此类推。最大预测分差为21-6）。
+（例如积分差为10，预测结果为21-17；积分差为20，预测结果21-13；积分差为30，预测结果21-9，依此类推。最大预测分差为21-6）。
  - step2：将实际结果与预测结果相减（例如预测为13-21，实际为17-21，那么得到4），再乘以放大系数 K 即为本局赛后选手分数变化值。其中 K＝2-0.01\*赛前积分。
- - 比分大于20则记为20
+ - 比分大于21则记为21。
 6. 双打挑战，挑战组合两个人各自积分应小于被挑战组合两个人中相应强弱者的积分。双打积分规则：
 分别计算双方赛前平均积分，将平均积分代入单打积分规则，计算赛后双方平均积分变化值。最终每人的积分变化＝本方平均积分变化值 * 0.5
 7. 积分最低为0，上限为200。
 8. 积分将用于每年KIAA杯羽毛球赛分组与赛制制定。
   
   
-  
 
 ## 排行榜 （2023/05/09）
 
-WangShun 141.2
+WangShun 142.4 
 
-PanZhiwei	138.3
+PanZhiwei 138.9 
 
-XuFengwei	122.4
+XuFengwei 124.4 
 
-LiuChengqi	121.2
+LiuChengqi 120.3 
 
-LiHulin	117.1
+LiHulin 118.6 
 
-FeiQinyue	100
+FeiQinyue 100 
 
-LyuCheqiu	85.8
+ShiYangfan 84.0 
 
-ShiYangfan	83
+LyuCheqiu 82.4 
 
-FuShuqi	78.6
+FuShuqi 79.8 
 
-WangHuimei	77.7
+WangHuimei 78.5 
 
-SunShengxiu	69.4
+SunShengxiu 68.1 
 
-HuangQifeng	67.4
+HuangQifeng 66.9 
 
-XueZihan	67.3
+XueZihan 66.3 
 
-YuNiankun	65.2
+YuNiankun 64.6 
 
-XuFuxiang	60.5
+XuFuxiang 61.6 
 
-ZhangLulu	57
+ZhangLulu 58.1 
 
-LinXiaojing	45.8
+LinXiaojing 46.2 
 
-ZouSiwei	41.2
+ZouSiwei 40.3 
 
-ZuoPei	36.2
+ZuoPei 34.8 
 
-ZhuRui	24.5
+YinGaocheng 25.3 
 
-YinGaocheng	23.8
+ZhuRui 23.5 
 
-Alex	23.8
+Alex 22.1 
 
-YueNannan	10
+YueNannan 10 
 
-ChenSiyuan	4.5
+ChenSiyuan 3.5 
