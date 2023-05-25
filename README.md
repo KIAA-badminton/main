@@ -17,11 +17,11 @@
 
 ## 排行榜 （2023/05/17）
 
-WangShun 148.9 
+WangShun 144.0 
 
-PanZhiwei 137.3 
+PanZhiwei 140.7 
 
-XuFengwei 125.0 
+XuFengwei 124.4 
 
 LiHulin 118.6 
 
@@ -31,15 +31,15 @@ FeiQinyue 100
 
 ShiYangfan 85.2 
 
-FuShuqi 79.8 
-
-LyuCheqiu 79.3 
+FuShuqi 84.2 
 
 WangHuimei 78.5 
 
 FengQikang 76.8 
 
 SunShengxiu 76.7 
+
+LyuCheqiu 71.2 
 
 HuangQifeng 66.9 
 
@@ -51,17 +51,17 @@ ZhangLulu 58.1
 
 XuFuxiang 55.4 
 
-ZouSiwei 49.8 
+ZouSiwei 53.5 
 
 LinXiaojing 46.2 
+
+Alex 40.5 
 
 ZuoPei 34.8 
 
 YinGaocheng 25.3 
 
 ZhuRui 23.5 
-
-Alex 22.1 
 
 YueNannan 10 
 
