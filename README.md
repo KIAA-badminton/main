@@ -14,43 +14,43 @@
   
   
 
-## 排行榜 （latest update: 2023/10/24） 
+## 排行榜 （latest update: 2023/10/31） 
 
-PangYuxuan 154.2 
+PangYuxuan 153.8 
 
-WangShun 147.0 
+PanZhiwei 145.2 
 
-PanZhiwei 142.2 
+WangShun 144.5 
 
-XuFengwei 121.9 
+XuFengwei 119.5 
 
-LiHulin 121.7 
+LiHulin 118.0 
 
 LiuChengqi 110.5 
 
-ChenChanghao 89.1 
-
-FuShuqi 88.8 
+ChenChanghao 97.6 
 
 ShiYangfan 84.9 
 
-ZouSiwei 80.3 
+LyuCheqiu 84.4 
 
-WangHuimei 78.5 
+FuShuqi 84.3 
 
-LyuCheqiu 77.2 
+ZouSiwei 83.2 
 
-XuFuxiang 76.3 
+ChenPing 79.2 
 
-ChenPing 72.7 
+WangHuimei 76.4 
+
+FengQikang 71.9 
 
 HuangQifeng 70.7 
 
 SunShengxiu 68.2 
 
-FengQikang 66.3 
-
 XueZihan 66.3 
+
+XuFuxiang 66.0 
 
 YuNiankun 64.6 
 
@@ -68,4 +68,4 @@ YinGaocheng 25.3
 
 YueNannan 10 
 
-ChenSiyuan 3.5 
+ChenSiyuan 3.5
