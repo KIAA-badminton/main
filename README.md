@@ -13,7 +13,7 @@
 分别计算双方赛前平均积分，将平均积分代入单打积分规则，计算赛后双方平均积分变化值。最终每人的积分变化＝本方平均积分变化值 * 0.5
 6. 积分最低为0，上限为200。
 
-# KIAA Badminton Club Points Competition Rules (November 2023 Edition)
+## KIAA Badminton Club Rank Competition Rules (November 2023 Edition)
 
 1. The initial ranks are the rank*10 set before the 2023 KIAA Cup (already announced). **Those who join the rank challenge will determine their initial ranks based on the results of the first game, and the opponent's points will remain unchanged in this game**
 2. **Ranks will be used for the grouping of the annual KIAA Cup badminton tournament**
@@ -31,7 +31,8 @@ Calculate the average rank of both sides before the competition, substitute the 
 (translated by Baidu & Qifeng Huang)
   
 
-## 排行榜 （latest update: 2023/10/31） 
+
+# 排行榜 （latest update: 2023/10/31） 
 
 PangYuxuan 153.8 
 
