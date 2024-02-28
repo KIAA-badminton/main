@@ -16,8 +16,8 @@
 # KIAA Badminton Club Points Competition Rules (November 2023 Edition)
 
 1. The initial ranks are the rank*10 set before the 2023 KIAA Cup (already announced). **Those who join the rank challenge will determine their initial ranks based on the results of the first game, and the opponent's points will remain unchanged in this game**
-2. **Ranks will be used for the grouping and format development of the annual KIAA Cup badminton tournament**
-3. Both parties must acknowledge this as a rank challenge before the competition, and the results will be sent to Huang Qifeng/Fu Shuqi for updated ranks after the competition.
+2. **Ranks will be used for the grouping of the annual KIAA Cup badminton tournament**
+3. Both parties must acknowledge this as a rank challenge before the games, and the results will be sent to Huang Qifeng/Fu Shuqi for updated ranks after the games.
 4. **Rule of Singles:**
 - Step 1: Predict the match result based on the ranks of both sides. For every 10 points increase in the difference in ranks, the predicted match result difference will increase by 4 points
 (For example, if the rank difference is 10, the predicted result is 21-17; if the rank difference is 20, the predicted result is 21-13; if the rank difference is 30, the predicted result is 21-9, and so on).
