@@ -9,11 +9,11 @@
  - step2：将实际结果与预测结果相减（例如预测为13-21，实际为17-21，那么得到4），再乘以放大系数 K 即为本局赛后选手分数变化值。其中 K＝2-0.01\*赛前积分。
  - 比分大于21则记为21。
  - 若赛前双方积分差大于40则积分赛无效。
-4. **双打积分规则：**
+5. **双打积分规则：**
 分别计算双方赛前平均积分，将平均积分代入单打积分规则，计算赛后双方平均积分变化值。最终每人的积分变化＝本方平均积分变化值 * 0.5
-5. 积分最低为0，上限为200。
+6. 积分最低为0，上限为200。
 
-#KIAA Badminton Club Points Competition Rules (November 2023 Edition)
+# KIAA Badminton Club Points Competition Rules (November 2023 Edition)
 
 1. The initial ranks are the rank*10 set before the 2023 KIAA Cup (already announced). **Those who join the rank challenge will determine their initial ranks based on the results of the first game, and the opponent's points will remain unchanged in this game**
 2. **Ranks will be used for the grouping and format development of the annual KIAA Cup badminton tournament**
@@ -24,11 +24,11 @@
 - Step 2: Subtract the actual result from the predicted result (for example, if it is predicted to be 13-21 and actual is 17-21, then obtain 4), and multiply it by the amplification factor K to obtain the change in the player's rank after this game. Among them, K=2-0.01 * pre match ranks.
 - If the score is greater than 21, it is recorded as 21.
 - If the difference in ranks between the two sides before the competition is greater than 40, the rank competition will be invalid.
-4. **Rule of Doubles:**
+5. **Rule of Doubles:**
 Calculate the average rank of both sides before the competition, substitute the average ranks into the Rule of Singles, and calculate the change in average rank of both sides after the competition. The final change in ranks for each person = the average change in points for our side * 0.5
-5. The minimum rank is 0, and the upper limit is 200.
+6. The minimum rank is 0, and the upper limit is 200.
   
-(translated by Baidu)
+(translated by Baidu & Qifeng Huang)
   
 
 ## 排行榜 （latest update: 2023/10/31） 
