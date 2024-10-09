@@ -1,6 +1,6 @@
 # Part I. Beginner's Guide to Badminton 羽毛球新手入门
 
-(summarized by Hulin Li)
+(by Hulin Li)
 
 - Rules 规则
   - [Singles 单打](https://www.bilibili.com/video/BV1VW411o74F/?spm_id_from=333.337.search-card.all.click&vd_source=b104ef70b0f358042957c68fd6aacc21)
@@ -53,4 +53,8 @@
 Calculate the average rank of both sides before the competition, substitute the average ranks into the Rule of Singles, and calculate the change in average rank of both sides after the competition. The final change in ranks for each person = the average change in points for our side * 0.5
 6. The minimum rank is 0, and the upper limit is 200.
   
-(translated by Baidu & Qifeng Huang)
+(by Qifeng Huang)
+
+#### Latest Rank
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/3439de06-3ccc-47e3-b4a7-a4085a8b979b">
+
