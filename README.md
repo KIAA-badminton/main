@@ -56,5 +56,6 @@ Calculate the average rank of both sides before the competition, substitute the 
 (by Qifeng Huang)
 
 #### Latest Rank
-<img width="491" alt="image" src="https://github.com/user-attachments/assets/3439de06-3ccc-47e3-b4a7-a4085a8b979b">
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/d4856ac6-7d3f-4088-b72e-830e11fe737b" />
+
 
